@@ -1,1 +1,3 @@
-# Nabiz_Olcer_Arduino
+# Arduino ile Nabız Ölçer Kodları ( Pulse Sensor )
+
+Detaylar, kullanım ve videonun tamamı için: https://www.youtube.com/watch?v=MUzPWky6wNc&ab_channel=GadgetMindsT%C3%BCrkiye
